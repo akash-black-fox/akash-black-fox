@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm AKASH HASAN
 
-<!--
-**akash-black-fox/akash-black-fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Banner](https://i.postimg.cc/DwBG9mMG/image-search-1766316260438.gif)
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+I'm a passionate developer who loves working on web development, open source projects, and learning new technologies. Currently focusing on full-stack development and mobile apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack / Skills
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,kotlin,cpp&perline=8" />
+
+### 🔗 Connect With Me
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/akash.black.fox)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/akash_black_fox)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:akash.max4x@gmail.com)
+
+### ⚡ Fun Fact
+I can't code without coffee! ☕
+
+<img src="https://komarev.com/ghpvc/?username=akash-max4x-account&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
